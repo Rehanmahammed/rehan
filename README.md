@@ -1,0 +1,2 @@
+# rehan
+Request Id: 1b18391a-1891-41b8-b3b7-2f64517c4400 Correlation Id: 8d62f6fa-ab71-4d93-a428-f2eb41a596ee Timestamp: 2022-08-16T06:54:17Z Message: AADSTS50020: User account 'rehanrehanmd967@gmail.com' from identity provider 'live.com' does not exist in tenant 'AP GSWS Project' and cannot access the application '26eba3e6-0f1d-4436-a926-080ff94bb1fd'(ap-gsws-prod-ui) in that tenant. The account needs to be added as an external user in the tenant first. Sign out and sign in again with a different Azure Active Directory user account.
